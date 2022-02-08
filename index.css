@@ -1,0 +1,20 @@
+.banner {
+  background-color: black;
+}
+
+.banner-text {
+  color: white;
+}
+
+.left-menu {
+  background-color: orange;
+}
+
+.top-menu {
+  background-color: brown;
+}
+
+.col-h {
+  height: 20vh;
+  background-color: grey;
+}
